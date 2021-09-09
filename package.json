@@ -1,0 +1,28 @@
+{
+  "name": "catholic-api",
+  "version": "1.0.0",
+  "description": "A simple API to get data about Catholic World, like Saints, Documents, Books... ",
+  "main": "src/server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menezesfelipee/saints-api.git"
+  },
+  "author": "Felipe Menezes",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/menezesfelipee/saints-api/issues"
+  },
+  "homepage": "https://github.com/menezesfelipee/saints-api#readme"
+}
