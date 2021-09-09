@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/menezesfelipee/saints-api.git"
+    "url": "git+https://github.com/menezesfelipee/catholic-api.git"
   },
   "author": "Felipe Menezes",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/menezesfelipee/saints-api/issues"
+    "url": "https://github.com/menezesfelipee/catholic-api/issues"
   },
-  "homepage": "https://github.com/menezesfelipee/saints-api#readme"
+  "homepage": "https://github.com/menezesfelipee/catholic-api#readme"
 }
