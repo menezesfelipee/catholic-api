@@ -4,7 +4,6 @@ const { MongoClient } = require("mongodb");
 const client = new MongoClient(process.env.DB_URL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  serverSelectionTimeoutMS: 5000,
 });
 
 const connectDB = async (next) => {
