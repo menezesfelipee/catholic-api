@@ -56,7 +56,7 @@ npm run dev
 
 ## Testando a API
 
-> Agora você tem acesso a um CRUD completo a respeito dos Santos Católicos para usar em sua aplicações. Para acessar, basta acessar http://localhost:3000/~rota~
+> Agora você tem acesso a um CRUD completo a respeito dos Santos Católicos para usar em sua aplicações. Para acessar, basta acessar `http://localhost:3000/<rota>`
 
 _Segue a lista de rotas:_
 
@@ -91,10 +91,10 @@ _Segue abaixo um modelo de JSON para ser enviado junto às requisições POST e 
 
 ```json
 {
-    "name": "Santa Isabel da Hungria"
-    "type": "Memória Facultativa"
-    "day": 17
-    "month": 11
+    "name": "Santa Isabel da Hungria",
+    "type": "Memória Facultativa",
+    "day": 17,
+    "month": 11,
     "img": "https://anamariabrandolini.files.wordpress.com/2019/08/catalina-de-alejandrc3ada-de-zurbarc3a1n.jpg"
 }
 ```
@@ -112,9 +112,9 @@ _Para contribuir:_
 
 **:pouting_man: Felipe Menezes**
 
-<a href = 'https://www.linkedin.com/in/felipe-menezes-'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.github.com/menezesfelipee'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.instagram.com/menezesfelipee'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://www.linkedin.com/in/felipe-menezes-'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.github.com/menezesfelipee'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.instagram.com/menezesfelipee'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 
 ## Licença
 
