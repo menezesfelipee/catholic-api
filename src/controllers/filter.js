@@ -24,7 +24,7 @@ const filter = async (req, res) => {
     if (!saintsList.length)
       return res.status(404).send({ message: "Nenhum resultado encontrado." });
 
-    return res.status(200).send({ saintsList });
+    return res.status(200).send(saintsList);
   } catch (err) {
     return res.status(500).send({ error: err.message });
   }
